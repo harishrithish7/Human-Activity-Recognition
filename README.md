@@ -36,19 +36,13 @@ Output
 [![giphy.gif](https://s4.postimg.org/49t4relod/giphy.gif)](https://postimg.org/image/qlqxksks9/)
 
 ###Original video frame
-[![original.png](https://s3.postimg.org/esn2yx6eb/original.png)](https://postimg.org/image/5kuui7zbz/)
+[![frame.png](https://s3.postimg.org/5a8votdrn/frame.png)](https://postimg.org/image/84c129fxr/)
 
-###Human segemented image
-[![mask.png](https://s3.postimg.org/3m989kdgz/mask.png)](https://postimg.org/image/yt7vdh1db/)
+###Human Segmented image
+[![mask.png](https://s4.postimg.org/90btq8j71/mask.png)](https://postimg.org/image/nwacxtull/)
 
-###Motion History Image (MHI)
-[![mhi.png](https://s3.postimg.org/vqsn37f1v/mhi.png)](https://postimg.org/image/rhnx11bsf/)
-
-###Human shape
-[![shape.png](https://s4.postimg.org/576uymvyl/shape.png)](https://postimg.org/image/xk2cp3hop/)
-
-###Fall Detected Notification
-[![fall.jpg](https://s3.postimg.org/6aagwho5f/fall.jpg)](https://postimg.org/image/tbr228nsv/)
+###Recognized Activity
+[![box.png](https://s4.postimg.org/nukgkv8v1/box.png)](https://postimg.org/image/w02ij0x3t/)
 
 YouTube Demo Video Link
 ------------------
