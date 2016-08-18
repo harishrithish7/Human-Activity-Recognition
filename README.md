@@ -9,8 +9,8 @@ The proposed solution automatically detects humans falling, through cameras inst
 
 Requirements
 ------------
-MATLAB R2013a
-WEKA 3.7
+1. MATLAB R2013a  
+2. WEKA 3.7
 
 Usage 
 -----
@@ -23,11 +23,11 @@ Usage
 
 ####MATLAB command line
 ```matlab
-recognizer <video_name>;
+recognizer <weka_path> <video_name>;
 ```
 ####Example
 ```matlab
-recognizer video.mp4;
+recognizer 'C:\Program Files\Weka-3-7\weka.jar' video.avi;
 ```
 
 Output
