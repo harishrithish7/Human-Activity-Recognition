@@ -1,8 +1,5 @@
 # Human-Acitivity-Recognition
 
-Introduction
-------------
-
 Requirements
 ------------
 1. MATLAB R2013a  
@@ -39,19 +36,5 @@ Output
 
 ###Recognized Activity
 [![box.png](https://s4.postimg.org/nukgkv8v1/box.png)](https://postimg.org/image/w02ij0x3t/)
-
-YouTube Demo Video Link
-------------------
-
-Flowchart
----------
-
-Note
-----
-
-Reference Paper
----------------
-
-
 
 
