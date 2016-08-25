@@ -25,9 +25,6 @@ recognizer 'C:\Program Files\Weka-3-7\weka.jar' video.avi;
 
 Output
 ------
-###Working
-[![giphy.gif](https://s4.postimg.org/49t4relod/giphy.gif)](https://postimg.org/image/qlqxksks9/)
-
 ###Original video frame
 [![frame.png](https://s3.postimg.org/5a8votdrn/frame.png)](https://postimg.org/image/84c129fxr/)
 
