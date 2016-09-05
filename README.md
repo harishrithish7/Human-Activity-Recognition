@@ -34,4 +34,11 @@ Output
 ###Recognized Activity
 [![box.png](https://s4.postimg.org/nukgkv8v1/box.png)](https://postimg.org/image/w02ij0x3t/)
 
+Reference Paper
+---------------
+N.Ikizler and P.Duygulu. Human Action Recognition Using Distribution of Oriented Rectangular Patches.  
+*In: Springer Human Motion 2007, LNCS 4814, pp. 271–284*,2007. 
 
+License
+-------
+[![License](https://s3.postimg.org/5h9joly3n/license.png)](https://postimg.org/image/g43cu168v/)
